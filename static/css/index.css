@@ -1,0 +1,27 @@
+.article-title{
+  font-size: 16px;
+  font-weight: bold;
+}
+.article-content{
+  word-wrap: break-word;
+  word-break: normal;
+}
+
+.article-content image,img{
+  width: 100%;
+  height: auto;
+}
+
+.article-content p{
+/**
+  margin: 10px auto;
+max-width: 100%;
+min-height: 1em;
+white-space: normal;
+letter-spacing: 2px;
+line-height: 2em;
+line-height: 2em;
+box-sizing: border-box !important;
+word-wrap: break-word !important;
+***/
+}
